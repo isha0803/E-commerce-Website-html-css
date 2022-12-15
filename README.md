@@ -31,11 +31,4 @@
 2. CSS3
 3. JS
 
-## Screenshots
 
-![screenshot1](screenshots/1.PNG)
-![screenshot2](screenshots/2.PNG)
-![screenshot3](screenshots/3.PNG)
-![screenshot4](screenshots/4.PNG)
-![screenshot5](screenshots/5.PNG)
-![screenshot6](screenshots/6.PNG)
