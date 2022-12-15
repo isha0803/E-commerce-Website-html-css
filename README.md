@@ -2,11 +2,11 @@
 
 ## Overview
 
->This Project is done at internship studio and by thier guidelines.
+>This Project is done at internship studio and by their guidelines.
 
 >The project is to design a E-commerce website.
 
->All the copyrights and rights goes to Saicharan Gouru(Myself designer of this website).
+>All the copyrights and rights goes to ESha Fasge(Myself designer of this website).
 
 >This project satisfies all the minimal characteristics given by the internship studio like image slider,home page,categories,about us,contact us,search box and etc...
 
